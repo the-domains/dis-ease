@@ -1,0 +1,14 @@
+layout_spectrum: 0.1880763431545347
+typography_spectrum: 0.9149548793211579
+color:
+  brandStrength: 0.5553344271611422
+  lightness: 0.8222144604660571
+  saturation: 0.5015376505907625
+  rhythmicContrast: 0.7378052773419768
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: dis-ease
